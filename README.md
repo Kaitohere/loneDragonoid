@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @loneBoyDragonoid
-- 👀 I’m interested in manga,anime,comic,movies
-- 🌱 I’m currently trying to learn coding
-- 💞️ I’m looking to collaborate on someplace good
-- 📫 How to reach me *************************
-- 😎 Going to be professional GFX and VFX artist
+- hi its ******
+- learning how to program
+- male
+- need help to learn
+- contact me at kaitoplayz69@gmail.com
 
 <!---
 loneBoyDragonoid/loneBoyDragonoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
